@@ -1,0 +1,5 @@
+Favorite foods:
+    - Pizza
+    - Sushi
+    - Chocolate
+
